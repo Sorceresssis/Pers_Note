@@ -44,3 +44,9 @@ addCount(2);
 // 1
 // 2
 ```
+
+### Promise & async/await
+
+#### 状态吸收
+
+### 标签语法

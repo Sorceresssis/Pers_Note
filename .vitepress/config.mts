@@ -72,7 +72,7 @@ export default async () => {
       ['meta', { name: 'google-site-verification', content: 'EbkZ0BRPgPljhAykPUNHc9dt6DtvljJxVizkeFa9N-Q' }],
     ],
     lang: 'zh-CN',
-    base: '/Note',
+    base: '/MyNote',
     ignoreDeadLinks: true,
     themeConfig: {
       logo: '/logo.png',

@@ -9,7 +9,6 @@ enum WorkspaceDir {
     COMPUTER_NETWORK = '1_ComputerNetwork',
     BACKEND = '9_Backend',
     FRONTEND = '10_Frontend',
-    INTERVIEW = '100_Interview',
 
     LIVELIHOOD = '105_Livelihood',
     LIFE = '106_Life',
@@ -25,7 +24,6 @@ export const workspaces: VPC.Workspace[] = [
     { label: '前端', dir: WorkspaceDir.FRONTEND },
     { label: '后端', dir: WorkspaceDir.BACKEND },
     { label: '计算机网络', dir: WorkspaceDir.COMPUTER_NETWORK },
-    { label: '面试', dir: WorkspaceDir.INTERVIEW },
     { label: '生计', dir: WorkspaceDir.LIVELIHOOD },
     { label: '生活', dir: WorkspaceDir.LIFE },
 ]
